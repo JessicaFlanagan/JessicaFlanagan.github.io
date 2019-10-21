@@ -3,3 +3,6 @@ body{
     overflow:hidden;
     color:white;
   }
+  #images{
+    background-color: none;
+  }
