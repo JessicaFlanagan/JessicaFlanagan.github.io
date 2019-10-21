@@ -6,3 +6,10 @@ body{
   #images{
     background-color: none;
   }
+  h1{
+      text-align: center;
+  }
+
+  #container{
+    display: inline-block;
+  }
